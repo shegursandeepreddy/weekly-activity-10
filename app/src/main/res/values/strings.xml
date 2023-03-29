@@ -5,5 +5,6 @@
     <string name="hello_sentItems_fragment">Sent Items!</string>
     <string name="inbox">Inbox</string>
     <string name="sent_items">Sent Items</string>
+    <string name="About_Me">About Me\n Name : Sandeep \n Pno: 123456789 \n address: 10 grenoble dr</string>
     <string name="help">Help</string>
 </resources>
